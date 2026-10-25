@@ -1,6 +1,7 @@
 # ProjectDS_KelompokDimanaKetuanyaGrace
 Data Science Project
-Kelompok 58: kelompok dimana ketuaya grace/n
+Kelompok 58: kelompok dimana ketuaya grace
+
 Anggota : 
 - 123240084	Kevin Ridoi Parhusip
 - 123240036	Grace Rianty Butar Butar
